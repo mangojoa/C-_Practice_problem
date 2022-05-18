@@ -2,6 +2,9 @@
 #include <string>
 using namespace std;
 
+// 문자열을 두 개 입력받고 두 개의 문자열이 같은지 검사하는 프로그램을 작성하라. 
+// 만일 같으면 "같습니다", 아니면 "같지 않습니다"를 출력하라.
+
 int main() {
     string a, b;
 
