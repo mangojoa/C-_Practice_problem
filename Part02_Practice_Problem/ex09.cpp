@@ -28,7 +28,13 @@ class Oval{
 private:
     int width, height;
 public:
-
+    Oval::Oval(int x, int y) {
+        width = x;
+        height = y;   
+    }
+    Oval set(int x, int y) {
+        
+    }
 }
 
 int main() {
